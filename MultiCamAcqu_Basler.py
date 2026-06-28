@@ -295,6 +295,9 @@ class MainWindow(SubWindow):
             #
             #     print('设置成功')
 
+            for i in range(len(self.img_count)):
+                self.img_count[i] += 1  # 更新延时间隔
+
             # 激发触发命令(无等待时间)
             self.act_cmd.IssueNoWait()
 
