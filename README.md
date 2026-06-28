@@ -1,6 +1,5 @@
 ​如果这个项目对您有帮助，欢迎点个 ⭐️ 支持一下，你的认可是我们持续维护的动力。
-也可关博客：https://blog.csdn.net/wangbo8366534/article/details/162399886?sharetype=blogdetail&sharerId=162399886&sharerefer=PC&sharesource=wangbo8366534&spm=1011.2480.3001.8118
-<br>
+也可关注博客：https://blog.csdn.net/wangbo8366534/article/details/162399886?sharetype=blogdetail&sharerId=162399886&sharerefer=PC&sharesource=wangbo8366534&spm=1011.2480.3001.8118
 <br>
 <br>
 
