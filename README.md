@@ -3,7 +3,7 @@
 <br>
 <br>
 
-项目涉及到pylon的API,可去官网下载SDK。MultiCamAcqu_Basler.py是主程序。
+项目涉及到pylon的API,可去官网下载SDK。MultiCamAcqu_Basler.py是主程序。打包程序太大放在了release里。
 
 basler官方的软件pylon Viewer给出了以“Action Commands”的方式来同步多相机单次采集的方案，但是这个方案只能单次同步采集，并且每个相机还要手动保存图像，过于繁琐，对于需要一定帧率连续同步采集的场景并不好用。因此对此进行了二次开发。主要实现的功能就是多相机连续同步采集，当然也具备基本的单次同步采集能力。
 
